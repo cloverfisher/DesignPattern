@@ -1,4 +1,4 @@
-package observer_pattern;
+package observer_pattern.normal;
 
 import java.util.ArrayList;
 import java.util.List;
